@@ -19,7 +19,7 @@ s22 Programming Training I 最終課題
 
 8,背景画像の追加
 
-仕様変更点
+仕様変更
 
 1,名前の変更
 
